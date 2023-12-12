@@ -10,5 +10,3 @@ for i in arr:
         dict1[i] =1
     if dict1[i] > (len(arr)//4):
         print(i)
-# print(dict1)
-# print(len(arr))
