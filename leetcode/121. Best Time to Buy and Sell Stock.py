@@ -6,4 +6,5 @@ for s in prices[1:]:
         pro=max(pro,s-b)
     else:
         b=s
+
 print(pro)
